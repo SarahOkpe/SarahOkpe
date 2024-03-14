@@ -6,7 +6,7 @@
 
 I am a computer Science graduate student at Louisiana State University, Shreveport. I am interested in Software Development, deep learning and Automation that can increase efficiency and reduce costs in industry operations around the world. I love travelling!
 
-Languages: Python, Java and C#
+Languages: Python and C#
 
 🔭 I’m currently learning Deep Learning.  
 🍔 I love good food.  
