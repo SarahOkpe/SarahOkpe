@@ -8,10 +8,11 @@ I am a computer Science graduate student at Louisiana State University, Shrevepo
 
 Languages: Python, Java and C#
 
-\n🔭 I’m currently learning Deep Learning.  
-\n🍔 I love goodfood.
-\n⚡ Currently Building my Portfolio.
-\n💬 Email: (sarahokpe01@gmail.com)
-\n📫 Reach me at Linkedin: [SarahOkpe](https://www.linkedin.com/in/sarahokpe/)https://www.linkedin.com/in/sarahokpe/)
+🔭 I’m currently learning Deep Learning.  
+🍔 I love good food.  
+⚡ Currently Building my Portfolio.  
+💬 Email: (sarahokpe01@gmail.com)  
+📫 Reach me at Linkedin: [SarahOkpe](https://www.linkedin.com/in/sarahokpe/)
+
 
 
